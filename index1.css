@@ -1,0 +1,18 @@
+.text_is_red{
+    color: red;
+}
+
+.text_is_blue{
+    color: blue;
+}
+
+.text_is_white{
+    color: white;
+    background-color: green;
+}
+
+.text_is_pink{
+    color: pink;
+    background-color: orange;
+}
+
